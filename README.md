@@ -47,8 +47,11 @@ To Do
 - Improve input validation
 - Add PIN encryption
 - Cross-platform support (Linux/Mac)
+  
 
 License
+
 This project is open for educational use and practice. Feel free to modify and expand it.
+
 Author:
 MD Mahamudul Hasan (MHT)
